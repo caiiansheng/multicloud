@@ -1,0 +1,13 @@
+String ak = "PVUWON53S2WOS9SM3DFE";
+		// replace real SK
+		String sk = "6MH47rdmu6WMyUBEpTpFr5zSVNI6eppGaRqPg5bW";
+
+		// get method
+		// replace real url
+		String url = "https://cci.cn-north-1.myhuaweicloud.com/apis/apps/v1/namespaces/cci-auto-1540435554409/deployments";
+		get(ak, sk, url);
+
+		// post method
+		// replace real url
+		String postUrl = "https://cci.cn-north-1.myhuaweicloud.com/apis/apps/v1beta1/namespaces/cci-auto-1540435554409/deployments";
+	
